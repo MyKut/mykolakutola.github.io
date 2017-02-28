@@ -1,0 +1,170 @@
+body,html {
+	margin: 0;
+	padding: 0;
+	}
+h1,h2,h3,h4 {
+	font-family: Montserrat;
+	font-size: 18px;
+	color: #FF544F;
+	}
+	
+p {
+	font-family: Montserrat;
+	font-size: 14px;
+	color: #888888;
+	}
+
+a:link {
+    text-decoration: none;
+}
+
+/* unvisited link */
+a:link {
+    color: #FF544F;
+}
+
+/* visited link */
+a:visited {
+    color: #1A414C;
+}
+
+/* mouse over link */
+a:hover {
+    color: hotpink;
+}
+
+/* selected link */
+a:active {
+    color: blue;
+}
+	
+#hatelists{
+	font-family: Montserrat;
+	font-size: 14px;
+	color: #888888;
+	}
+
+#header {
+	position: relative;
+	width: 13%;
+	left: 70px;
+	top: 15px;
+}
+
+#header2 {
+	position: relative;
+	width: 13%;
+	left: 140px;
+	top: 15px;
+	margin-right: 70px;
+}
+	
+#button {
+	position: relative;
+	width: 13%;
+	left: 70px;
+	margin-right: 145px;
+	top: 20px;
+	width: auto;
+	height: 16px;
+}
+	
+#storyheader {
+	position: absolute; 
+	top: 210px;
+	left: 70px;
+	width: 5%;
+}
+	
+.mompic {
+	position: absolute;
+	top: 120px;
+	right: 110px;
+}
+	
+#awards {
+	position: absolute; 
+	top: 330px;
+	left: 70px;
+	width: 5%;
+	}
+	
+.policepicleft {
+	position: absolute;
+	left: 30px;
+	margin-left: 50px;
+	top: 150px;
+}
+	
+.policepicright {
+	position: absolute;
+	right: 70px;
+	margin-left: 50px;
+	top: 150px;
+}
+
+#progressheader {
+	position: absolute; 
+	top: 170px;
+	left: 70px;
+	width: 5%;
+	}
+
+.punksh {
+	position: absolute;
+	right: 70px;
+	bottom: 80px;
+}
+
+#contactheader {
+	position: absolute; 
+	top: 330px;
+	left: 660px;
+}
+
+.content1 {
+	text-align: left;
+	position: absolute;
+	width: 100%;
+	margin-left: auto;
+	margin-right: auto;
+	left: 70px;
+	top: 300px;
+	margin-bottom: 40px;
+}
+	
+.content2 {
+	text-align: left;
+	position: absolute;
+	width: 100%;
+	left: 585px;
+	top: 380px;
+}
+
+.content4 {
+	text-align: left;
+	position: absolute;
+	width: 100%;
+	left: 50px;
+	top: 410px;
+}
+
+.content3 {
+	text-align: left;
+	position: absolute;
+	width: 100%;
+	left: 70px;
+	top: 270px;
+}
+	
+.weblinks {
+	left: 645px;
+	top: 420px;
+	position: absolute; 
+}
+	
+.meinmir {
+	position: absolute;
+	top: 150px;
+	right: 30px;	
+}
